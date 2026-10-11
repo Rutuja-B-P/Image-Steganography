@@ -1,7 +1,6 @@
-# Python
+# Python cache files
 __pycache__/
 *.py[cod]
-*.pyo
 
 # Virtual environments
 .venv/
@@ -13,17 +12,18 @@ env/
 .env.*
 !.env.example
 
-# Editors and operating systems
+# IDE and operating system files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 
-# Test and coverage output
+# Tests and coverage
 .pytest_cache/
 .coverage
 htmlcov/
 
-# Generated outputs (review before ignoring)
-output/
-outputs/
+# Build artifacts
+build/
+dist/
+*.egg-info/
