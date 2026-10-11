@@ -1,0 +1,26 @@
+---
+name: Bug report
+about: Report a reproducible problem
+title: "[BUG] "
+labels: bug
+assignees: ""
+---
+
+## Describe the bug
+
+## Steps to reproduce
+1.
+2.
+3.
+
+## Expected behaviour
+
+## Actual behaviour
+
+## Environment
+- OS:
+- Runtime / version:
+- Relevant configuration (no secrets):
+
+## Logs or screenshots
+Remove secrets and personal data before posting.
